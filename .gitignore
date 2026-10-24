@@ -1,0 +1,5 @@
+# Local credentials and environment files
+auth.json
+.env
+.env.*
+!.env.example
